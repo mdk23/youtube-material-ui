@@ -1,8 +1,10 @@
-# Youtube Clone and Material UI
+# Youtube Clone with Material UI
+
+This is an example of Youtube Clone using Material UI 
 
 Data comes from https://youtube-v31.p.rapidapi.com
 
-Live version : https://youtube-material-ui-clone1.netlify.app
+Live Version : https://youtube-material-ui-clone1.netlify.app
 
 
 ## Imagens
@@ -29,3 +31,5 @@ Live version : https://youtube-material-ui-clone1.netlify.app
 ### `Search Result`
 
 ![4](https://user-images.githubusercontent.com/33373038/195520319-279c1b5b-a0d5-4b5b-9f40-bd6b390ea751.png)
+
+## 🅼🅰🅳🅴 🅱🆈 💻🅼🅳🅺
